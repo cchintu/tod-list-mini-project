@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### how to run react eco system server
+
+go to react-ecosystem-server directory and open terminal and run commands `npm install` and then `npm run start` 
+ it will listen to a server at port 8080 for api requests.
